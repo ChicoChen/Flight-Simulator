@@ -22,5 +22,5 @@ This program includes several functions:
 - Mouse Right: turn right
 - Mouse left : turn left
 
-(https://github.com/ChicoChen/Flight-Simulator/blob/master/Samples/Screenshot%202017-05-13%2008.00.19.png)
-(https://github.com/ChicoChen/Flight-Simulator/blob/master/Samples/Screenshot%202017-05-13%2008.00.49.png)
+![Sample Screenshot](https://github.com/ChicoChen/Flight-Simulator/blob/master/Samples/Screenshot%202017-05-13%2008.00.19.png)
+![Sample Screenshot](https://github.com/ChicoChen/Flight-Simulator/blob/master/Samples/Screenshot%202017-05-13%2008.00.49.png)
