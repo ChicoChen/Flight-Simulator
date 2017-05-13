@@ -1,0 +1,24 @@
+
+This program includes several functions:
+
+  Scene control
+-----------------------
+- f: toggle fullscreen
+- g: toggle fog
+- s: toggle sea and sky
+- w: toggle wire
+- q: toggle quit
+- t: toggle texture (though not perfect)
+- m: toggle mountain
+
+  Camera control
+-----------------------
+- Page up   : faster
+- Page down : slower
+- Up Arrow  : move up
+- Down Arrow: move down
+- Mouse Right: turn right
+- Mouse left : turn left
+
+No other functions are included.
+NOTE: You can directly run the project(I guess, I set the additional lib and include to a $SolutionDir/...).
